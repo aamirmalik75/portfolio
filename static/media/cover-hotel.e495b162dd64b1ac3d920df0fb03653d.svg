@@ -1,0 +1,10 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#22252A"/>
+  <rect x="-120" y="-140" width="760" height="760" rx="80" fill="#2E3238"/>
+  <rect x="460" y="180" width="760" height="760" rx="80" fill="#393E46"/>
+  <circle cx="980" cy="120" r="220" fill="#4ECCA3" fill-opacity="0.12"/>
+  <circle cx="180" cy="760" r="240" fill="#4ECCA3" fill-opacity="0.08"/>
+  <text x="90" y="170" fill="#4ECCA3" font-family="Poppins, Arial, sans-serif" font-size="48" font-weight="600">Case Study</text>
+  <text x="90" y="280" fill="#D7D8DA" font-family="Poppins, Arial, sans-serif" font-size="86" font-weight="700">Hotel Management</text>
+  <text x="90" y="350" fill="#B0B2B5" font-family="Poppins, Arial, sans-serif" font-size="34">Responsive management platform with modern UI.</text>
+</svg>

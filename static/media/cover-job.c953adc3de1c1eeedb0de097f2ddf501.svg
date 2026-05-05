@@ -1,0 +1,11 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#17191C"/>
+  <rect x="120" y="170" width="960" height="560" rx="30" fill="#2E3238"/>
+  <rect x="170" y="240" width="370" height="420" rx="20" fill="#393E46"/>
+  <rect x="590" y="240" width="430" height="46" rx="23" fill="#4ECCA3"/>
+  <rect x="590" y="315" width="350" height="24" rx="12" fill="#D7D8DA" fill-opacity="0.85"/>
+  <rect x="590" y="360" width="300" height="24" rx="12" fill="#D7D8DA" fill-opacity="0.6"/>
+  <rect x="590" y="410" width="380" height="24" rx="12" fill="#D7D8DA" fill-opacity="0.6"/>
+  <text x="185" y="305" fill="#D7D8DA" font-family="Poppins, Arial, sans-serif" font-size="58" font-weight="700">Job Portal</text>
+  <text x="185" y="365" fill="#B0B2B5" font-family="Poppins, Arial, sans-serif" font-size="30">Hiring and applications</text>
+</svg>

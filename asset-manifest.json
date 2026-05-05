@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b67b595a.css",
+    "main.js": "/portfolio/static/js/main.3e5fc18d.js",
+    "static/media/me.png": "/portfolio/static/media/me.181b32566da608247f21.png",
+    "static/media/cover-productivity.svg": "/portfolio/static/media/cover-productivity.95153e736494dd47c5ca7d3c02a4539f.svg",
+    "static/media/cover-job.svg": "/portfolio/static/media/cover-job.c953adc3de1c1eeedb0de097f2ddf501.svg",
+    "static/media/cover-social.svg": "/portfolio/static/media/cover-social.e500b93867855f5fc8488de08da18b21.svg",
+    "static/media/cover-hotel.svg": "/portfolio/static/media/cover-hotel.e495b162dd64b1ac3d920df0fb03653d.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/cover-real-estate.svg": "/portfolio/static/media/cover-real-estate.aa151d7b7c897ee1cf51a545c8ebc87d.svg",
+    "main.b67b595a.css.map": "/portfolio/static/css/main.b67b595a.css.map",
+    "main.3e5fc18d.js.map": "/portfolio/static/js/main.3e5fc18d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b67b595a.css",
+    "static/js/main.3e5fc18d.js"
+  ]
+}
