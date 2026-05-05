@@ -1,0 +1,9 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#17191C"/>
+  <path d="M0 580L300 470L520 620L820 420L1200 570V900H0V580Z" fill="#2E3238"/>
+  <path d="M0 650L280 540L560 700L900 510L1200 640V900H0V650Z" fill="#393E46"/>
+  <rect x="80" y="90" width="350" height="8" fill="#4ECCA3"/>
+  <text x="80" y="180" fill="#D7D8DA" font-family="Poppins, Arial, sans-serif" font-size="82" font-weight="700">Real Estate</text>
+  <text x="80" y="245" fill="#B0B2B5" font-family="Poppins, Arial, sans-serif" font-size="34">Property listings with smart filtering & maps.</text>
+  <circle cx="1030" cy="180" r="130" fill="#4ECCA3" fill-opacity="0.14"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#22252A"/>
+  <rect x="90" y="130" width="420" height="640" rx="26" fill="#393E46"/>
+  <rect x="540" y="130" width="570" height="640" rx="26" fill="#2E3238"/>
+  <rect x="130" y="210" width="340" height="24" rx="12" fill="#4ECCA3" fill-opacity="0.7"/>
+  <rect x="130" y="270" width="270" height="24" rx="12" fill="#D7D8DA" fill-opacity="0.7"/>
+  <rect x="130" y="330" width="300" height="24" rx="12" fill="#D7D8DA" fill-opacity="0.55"/>
+  <rect x="590" y="220" width="340" height="28" rx="14" fill="#4ECCA3"/>
+  <text x="590" y="320" fill="#D7D8DA" font-family="Poppins, Arial, sans-serif" font-size="78" font-weight="700">Productivity</text>
+  <text x="590" y="385" fill="#B0B2B5" font-family="Poppins, Arial, sans-serif" font-size="34">Task planning and focus analytics dashboard.</text>
+</svg>
